@@ -1,0 +1,6 @@
+SetClick,$$21,,培养柜交互
+PlayAnim,2-013,,
+ShowCustomUI,CountDownPanel,,
+SetClick,$$21,,培养柜交互
+PlayAnim,2-014,,
+PromptTextImage,ToCultivateFor6Hours,,
