@@ -1,9 +1,0 @@
-SetClick,a,培养箱,试验十二
-PlayAnim,12-025,,
-SetClick,12548,琼脂平板,
-PlayAnim,12-026,,
-SetClick,a,,
-PlayAnim,12-027,,
-PlayAnim,12-028,,
-PromptText,16,,
-ShowCustomUI,PanelTwo,,
