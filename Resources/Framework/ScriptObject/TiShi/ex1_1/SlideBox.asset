@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfab22b4dbb17984ca8bd9f78830eb48, type: 3}
+  m_Name: SlideBox
+  m_EditorClassIdentifier: 
+  Text: "\u5C06\u4E00\u6EF4\u751F\u7406\u76D0\u6C34\u52A0\u4E8E\u73BB\u7247\u4E0A\uFF0C\u7528\u4E8E\u7EC6\u83CC\u57F9\u517B\u7684\u6DF7\u5300\u3001\u5747\u5300\u6D82\u5E03\uFF0C\u4FDD\u8BC1\u7EC6\u83CC\u5185\u5916\u73AF\u5883\u6E17\u900F\u538B\u5E73\u8861\u3001\u7EF4\u6301\u7EC6\u83CC\u6B63\u5E38\u5F62\u6001\u3002\r\n\u6CE8\u610F\uFF1A\u201C\u7C73\u6CD4\u6C34\u201D\u6837\u4FBF\u4E5F\u53EF\u4EE5\u91C7\u7528\u76F4\u63A5\u6D82\u7247\u6CD5\uFF01"
+  imagePath: Images/ex1_1
